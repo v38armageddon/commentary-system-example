@@ -1,8 +1,14 @@
-# ![NAME_PROJECT_HERE logo]() [NAME_PROJECT_HERE]
-Template for creating a repository
+# ![Commentary System Example logo](/Assets/icon.png) Commentary System Example
+A simple Commentary System Example for Godot, it contains a simple commentary system that can be used in any game.
+
+The project contains a 2D version and a 3D version.
+
+You can use this project to add a developer commentary system to your game.
 
 ## Installation
-Dumbie text
+Preqrequisites:
+- Latest version of Godot
+- This repo, you can clone it.
 
 ## Contribute
-[NAME_RPOJECT_HERE] is open to all contributions ! You can read more in the CONTRIBUTE file.
+Commentary System Example is open to all contributions ! You can read more in the CONTRIBUTE file.

@@ -1,5 +1,5 @@
 ## Description
-Please, describe why this change need to be pulled on [NAME_PROJECT_HERE].
+Please, describe why this change need to be pulled on Commentary System Example.
 
 ## Utility
 How this change is gonna be useful?
@@ -7,8 +7,7 @@ How this change is gonna be useful?
 ## Tests
 Please check the tests that you have made.
 <!--Mark a X in the brackets to check-->
-- [ ] Test 1
-- [ ] Test 2
+- [ ] Commentary System work on Example project
 
 ## Checklist:
 <!--Mark a X in the brackets to check-->
