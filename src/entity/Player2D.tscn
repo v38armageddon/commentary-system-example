@@ -1,0 +1,20 @@
+[gd_scene load_steps=4 format=3 uid="uid://btlrj05005nt4"]
+
+[ext_resource type="Script" path="res://scripts/Player2D.gd" id="1_00muv"]
+
+[sub_resource type="CapsuleMesh" id="CapsuleMesh_dym25"]
+
+[sub_resource type="CapsuleShape2D" id="CapsuleShape2D_r4gic"]
+radius = 8.0
+height = 32.0
+
+[node name="Player2D" type="CharacterBody2D"]
+script = ExtResource("1_00muv")
+
+[node name="MeshInstance2D" type="MeshInstance2D" parent="."]
+position = Vector2(0, 2.86102e-06)
+scale = Vector2(16, 16)
+mesh = SubResource("CapsuleMesh_dym25")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CapsuleShape2D_r4gic")

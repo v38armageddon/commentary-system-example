@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=3 uid="uid://by55my518l7f8"]
+
+[ext_resource type="PackedScene" uid="uid://c6pxkow1ivy3t" path="res://entity/Player3D.tscn" id="1_gam4p"]
+
+[node name="dev_template3d" type="Node3D"]
+
+[node name="Player3D" parent="." instance=ExtResource("1_gam4p")]
